@@ -20,6 +20,7 @@ const ImageWithFallback = ({ src, alt, className, title }) => {
     const apiUrl = import.meta.env.VITE_API_URL || 'https://aurabooks-ba1r.onrender.com/api';
     const serverBaseUrl = apiUrl.replace(/\/api$/, '');
     imageSrc = `${serverBaseUrl}${src}`;
+    console.log('API URL:', apiUrl, 'Original Src:', src, 'Resolved Image Src:', imageSrc);
   }
 
   if (error || !src) {
