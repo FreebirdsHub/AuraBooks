@@ -1,0 +1,6 @@
+
+# Environment files
+server/.env
+client/.env
+client/.env.development
+client/.env.local
