@@ -1,0 +1,123 @@
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 14:17:58"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 14:17:58"}
+{"level":"error","message":"Error sending email to mansi@yopmail.com: Invalid login: 535 5.7.0 Invalid credentials","service":"bookstore-api","timestamp":"2026-06-23 14:19:24"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 14:55:22"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 14:55:22"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 15:03:16"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 15:03:16"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 15:03:20"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 15:03:20"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 15:21:30"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 15:21:30"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:26:12"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:26:12"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:26:12"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:26:12"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:35:22"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:04"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:04"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:04"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:04"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:33"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:33"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:33"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:37:33"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:38:06"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:38:06"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:38:06"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:38:06"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:49:18"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/admin/stats - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:49:18"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:49:18"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:49:18"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:50:04"}
+{"level":"error","message":"401 - You are not logged in! Please log in to get access. - /api/auth/me - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:50:04"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:50:04"}
+{"level":"error","message":"401 - No refresh token provided. Please log in. - /api/auth/refresh-token - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 15:50:04"}
+{"level":"error","message":"500 - Book validation failed: ratings.average: Rating must be at least 1 - /api/books - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:17:26"}
+{"level":"error","message":"500 - Book validation failed: ratings.average: Rating must be at least 1 - /api/books - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:20:58"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:22:52"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:22:52"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:23:30"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:25:34"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:25:34"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:26:56"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:26:56"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:28:28"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:28:28"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:41:32"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:41:32"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:41:32"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:44:56"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:44:56"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:44:56"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:46:21"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:46:21"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:46:21"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:49:36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:49:36"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 16:50:36"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 16:50:36"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:02"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:02"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:02"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:05"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:06"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:06"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:08"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212496873-909552506.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:08"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg on this server! - /http://localhost:5000/uploads/coverImage-1782212010598-461429811.jpg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 16:55:08"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 17:02:36"}
+{"level":"error","message":"403 - You can only review books that you have successfully purchased. - /api/reviews - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 17:03:40"}
+{"level":"error","message":"404 - Can't find /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg on this server! - /http://localhost:5000/uploads/coverImage-1782212635350-286890085.jpeg - GET - ::1","service":"bookstore-api","timestamp":"2026-06-23 17:05:20"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 17:07:45"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-23 17:07:45"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-23 17:13:20"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-23 17:13:20"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 13:42:30"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 13:42:30"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:44:47"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:44:47"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 13:53:52"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 13:53:53"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:54:36"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:54:36"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:55:57"}
+{"level":"error","message":"401 - undefined - /api/payments/create-order - POST - ::1","service":"bookstore-api","timestamp":"2026-06-25 13:55:57"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:12:10"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:12:10"}
+{"level":"error","message":"404 - Can't find / on this server! - / - GET - ::ffff:10.224.235.66","service":"bookstore-api","timestamp":"2026-06-25 14:16:11"}
+{"level":"error","message":"404 - Can't find / on this server! - / - GET - ::ffff:10.224.235.66","service":"bookstore-api","timestamp":"2026-06-25 14:16:25"}
+{"level":"error","message":"404 - Can't find /loginMsg.js on this server! - /loginMsg.js - GET - ::ffff:10.224.235.66","service":"bookstore-api","timestamp":"2026-06-25 14:16:25"}
+{"level":"error","message":"404 - Can't find /cgi/get.cgi?cmd=home_login on this server! - /cgi/get.cgi?cmd=home_login - GET - ::ffff:10.224.235.66","service":"bookstore-api","timestamp":"2026-06-25 14:16:25"}
+{"level":"error","message":"404 - Can't find /rootDesc.xml on this server! - /rootDesc.xml - GET - ::ffff:10.224.235.66","service":"bookstore-api","timestamp":"2026-06-25 14:16:26"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:16:53"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:16:53"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:17:16"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:17:16"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:18:35"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:18:35"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:37:43"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:37:43"}
+{"level":"error","message":"404 - Can't find //uploads/book_selfhelp_cover.png on this server! - //uploads/book_selfhelp_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:40"}
+{"level":"error","message":"404 - Can't find //uploads/book_fantasy_cover.png on this server! - //uploads/book_fantasy_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:40"}
+{"level":"error","message":"404 - Can't find //uploads/book_tech_cover.png on this server! - //uploads/book_tech_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:40"}
+{"level":"error","message":"404 - Can't find //uploads/book_selfhelp_cover.png on this server! - //uploads/book_selfhelp_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:44"}
+{"level":"error","message":"404 - Can't find //uploads/book_fantasy_cover.png on this server! - //uploads/book_fantasy_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:44"}
+{"level":"error","message":"404 - Can't find //uploads/book_tech_cover.png on this server! - //uploads/book_tech_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:44"}
+{"level":"error","message":"404 - Can't find //uploads/book_fantasy_cover.png on this server! - //uploads/book_fantasy_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:47"}
+{"level":"error","message":"404 - Can't find //uploads/book_tech_cover.png on this server! - //uploads/book_tech_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:47"}
+{"level":"error","message":"404 - Can't find //uploads/book_selfhelp_cover.png on this server! - //uploads/book_selfhelp_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:47"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:42:49"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:42:49"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 14:48:22"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:48:22"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 15:58:11"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 15:58:11"}

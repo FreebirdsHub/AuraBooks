@@ -1,0 +1,116 @@
+openapi: 3.0.0
+info:
+  title: MERN Bookstore API
+  version: 1.0.0
+  description: API documentation for the MERN Bookstore project
+servers:
+  - url: http://localhost:5000
+    description: Development server
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+security:
+  - bearerAuth: []
+paths:
+  /api/health:
+    get:
+      summary: Health check
+      responses:
+        '200':
+          description: API is running
+  /api/auth/register:
+    post:
+      summary: Register a new user
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: Test User
+                email:
+                  type: string
+                  example: test@example.com
+                password:
+                  type: string
+                  example: password123
+      responses:
+        '201':
+          description: Created
+  /api/auth/login:
+    post:
+      summary: Login user
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  example: test@example.com
+                password:
+                  type: string
+                  example: password123
+      responses:
+        '200':
+          description: Success
+  /api/books:
+    get:
+      summary: Get all books
+      parameters:
+        - in: query
+          name: keyword
+          schema:
+            type: string
+        - in: query
+          name: category
+          schema:
+            type: string
+        - in: query
+          name: sort
+          schema:
+            type: string
+        - in: query
+          name: page
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Success
+  /api/categories:
+    get:
+      summary: Get all categories
+      responses:
+        '200':
+          description: Success
+  /api/cart:
+    get:
+      summary: Get user cart
+      responses:
+        '200':
+          description: Success
+    post:
+      summary: Add to cart
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                bookId:
+                  type: string
+                quantity:
+                  type: integer
+                  example: 1
+      responses:
+        '200':
+          description: Added
