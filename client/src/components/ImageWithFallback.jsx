@@ -13,6 +13,15 @@ const ImageWithFallback = ({ src, alt, className, title }) => {
       .toUpperCase();
   };
 
+  // Parse absolute asset URL for relative backend paths
+  let imageSrc = src;
+  if (src && (src.startsWith('/booksimages') || src.startsWith('/uploads'))) {
+    // Extract base server URL from VITE_API_URL (remove '/api' suffix)
+    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+    const serverBaseUrl = apiUrl.replace(/\/api$/, '');
+    imageSrc = `${serverBaseUrl}${src}`;
+  }
+
   if (error || !src) {
     return (
       <div
@@ -25,7 +34,7 @@ const ImageWithFallback = ({ src, alt, className, title }) => {
 
   return (
     <img
-      src={src}
+      src={imageSrc}
       alt={alt}
       className={className}
       onError={() => setError(true)}
