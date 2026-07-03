@@ -46,6 +46,9 @@ app.use(cookieParser());
 // Serve static files (uploaded images)
 app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
 
+// Serve book cover images from the repo root booksimages/ folder
+app.use('/booksimages', express.static(path.join(__dirname, '../../booksimages')));
+
 // Development logging
 if (config.env === 'development') {
   app.use(morgan('dev'));

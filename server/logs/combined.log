@@ -121,3 +121,5 @@
 {"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 14:48:22"}
 {"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-06-25 15:58:11"}
 {"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 15:58:11"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-07-03 12:13:24"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-07-03 12:13:24"}
