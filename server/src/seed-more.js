@@ -56,27 +56,23 @@ const importData = async () => {
       createdCategories.push(category);
     }
 
-    const brainPath = 'C:\\Users\\mjman\\.gemini\\antigravity-ide\\brain\\2276c3a5-ad8b-4b57-bf8a-9b583382a699';
-    
-    // Copy Images
-    const f1 = copyImage(path.join(brainPath, 'book_fantasy_1_1782378891323.png'), 'book_fantasy_1.png');
-    const f2 = copyImage(path.join(brainPath, 'book_fantasy_2_1782378903332.png'), 'book_fantasy_2.png');
-    const f3 = copyImage(path.join(brainPath, 'book_fantasy_3_1782378916326.png'), 'book_fantasy_3.png');
-    const f4 = copyImage(path.join(brainPath, 'book_fantasy_4_1782378927346.png'), 'book_fantasy_4.png');
-    const f5 = copyImage(path.join(brainPath, 'book_fantasy_5_1782378940062.png'), 'book_fantasy_5.png');
+    const f1 = '/booksimages/silentEchoes.jpeg';
+    const f2 = '/booksimages/moderUX.jpg';
+    const f3 = '/booksimages/quantumimage.jpg';
+    const f4 = '/booksimages/silentEchoes.jpeg';
+    const f5 = '/booksimages/moderUX.jpg';
 
-    const t1 = copyImage(path.join(brainPath, 'book_tech_1_1782379024658.png'), 'book_tech_1.png');
-    const t2 = copyImage(path.join(brainPath, 'book_tech_2_1782378968112.png'), 'book_tech_2.png');
-    const t3 = copyImage(path.join(brainPath, 'book_tech_3_1782379037955.png'), 'book_tech_3.png');
-    const t4 = copyImage(path.join(brainPath, 'book_tech_4_1782378990159.png'), 'book_tech_4.png');
-    const t5 = copyImage(path.join(brainPath, 'book_tech_5_1782379002159.png'), 'book_tech_5.png');
+    const t1 = '/booksimages/quantumimage.jpg';
+    const t2 = '/booksimages/silentEchoes.jpeg';
+    const t3 = '/booksimages/moderUX.jpg';
+    const t4 = '/booksimages/quantumimage.jpg';
+    const t5 = '/booksimages/silentEchoes.jpeg';
 
-    const s1 = copyImage(path.join(brainPath, 'book_selfhelp_1_1782379049156.png'), 'book_selfhelp_1.png');
-    // Reuse self-help images since we hit quota limit
-    const s2 = copyImage(path.join(brainPath, 'book_selfhelp_cover_1782378438315.png'), 'book_selfhelp_2.png');
-    const s3 = copyImage(path.join(brainPath, 'book_selfhelp_cover_1782378438315.png'), 'book_selfhelp_3.png');
-    const s4 = copyImage(path.join(brainPath, 'book_selfhelp_1_1782379049156.png'), 'book_selfhelp_4.png');
-    const s5 = copyImage(path.join(brainPath, 'book_selfhelp_cover_1782378438315.png'), 'book_selfhelp_5.png');
+    const s1 = '/booksimages/moderUX.jpg';
+    const s2 = '/booksimages/quantumimage.jpg';
+    const s3 = '/booksimages/silentEchoes.jpeg';
+    const s4 = '/booksimages/moderUX.jpg';
+    const s5 = '/booksimages/quantumimage.jpg';
 
     const books = [
       // Fantasy

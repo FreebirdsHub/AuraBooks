@@ -79,3 +79,7 @@
 {"level":"error","message":"404 - Can't find //uploads/book_selfhelp_cover.png on this server! - //uploads/book_selfhelp_cover.png - GET - ::1","service":"bookstore-api","timestamp":"2026-06-25 14:38:47"}
 {"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.nnpwb06.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 13:13:25"}
 {"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 13:50:41"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 13:56:38"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 14:40:19"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 14:45:57"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 16:38:31"}
