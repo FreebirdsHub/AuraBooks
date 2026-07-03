@@ -123,3 +123,9 @@
 {"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-06-25 15:58:11"}
 {"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-07-03 12:13:24"}
 {"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-07-03 12:13:24"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-07-03 12:43:49"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"bookstore-api","timestamp":"2026-07-03 12:43:49"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-07-03 13:13:25"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.nnpwb06.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 13:13:25"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"bookstore-api","timestamp":"2026-07-03 13:50:41"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.3yxvwal.mongodb.net","service":"bookstore-api","timestamp":"2026-07-03 13:50:41"}
